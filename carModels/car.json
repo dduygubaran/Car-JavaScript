@@ -1,0 +1,43 @@
+[
+    {
+        "brand": "Toyota",
+        "model": "Corolla",
+        "image": "../images/toyotoCorolla.jpg"
+    },
+    {
+        "brand": "Honda",
+        "model": "Civic",
+        "image": "../images/hondaCivic.webp"
+    },
+    {
+        "brand": "Ford",
+        "model": "Mustang",
+        "image": "../images/fordMustang.avif"
+    },
+    {
+        "brand": "Opel",
+        "model": "Corsa",
+        "image": "../images/opelCorsa.jpg"
+    },
+    {
+        "brand": "Volkswagen",
+        "model": "T-ROC",
+        "image": "../images/vwTroc.webp"
+    },
+    {
+        "brand": "BMW",
+        "model": "320i",
+        "image": "../images/BMW320i.jpg"
+    },
+    {
+        "brand": "SCODA",
+        "model": "Kamiq",
+        "image": "../images/skodaKamiq.jpg"
+    },
+    {
+        "brand": "Hyundai",
+        "model": "Bayon",
+        "image": "../images/hyundaiBayon.jpeg"
+    }
+
+]
